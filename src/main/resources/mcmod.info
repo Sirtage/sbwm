@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sbwmod",
+  "name": "Sirtage's BW mod",
+  "description": "Sirtage's bedwars mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
